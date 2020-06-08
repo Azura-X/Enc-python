@@ -8,7 +8,6 @@ aleju = ("""\x1b[92m
      ╩ ╩┴ ┴┴└─└─┘┴ ┴┴ ┴┴─┘\x1b[00m
      Author : Aleeju\n""")
 def aleeju():
-	os.system ('clear')
 	try:
 		print (aleju)
 		print ('\x1b[00mExample > /sdcard/file.py')
